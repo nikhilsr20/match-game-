@@ -1,0 +1,27 @@
+{
+  "name": "match-game-",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start":"pacel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilsr20/match-game-.git"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilsr20/match-game-/issues"
+  },
+  "homepage": "https://github.com/nikhilsr20/match-game-#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
